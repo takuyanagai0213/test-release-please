@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/takuyanagai0213/test-release-please/compare/v1.0.1...v1.0.2) (2022-10-19)
+
+
+### Revert
+
+* "Create test.txt ([#1](https://github.com/takuyanagai0213/test-release-please/issues/1))" ([#9](https://github.com/takuyanagai0213/test-release-please/issues/9)) ([438309f](https://github.com/takuyanagai0213/test-release-please/commit/438309fe93a6d5999c83555ebb3ee4f05d55a1e2))
+
 ## [1.0.1](https://github.com/takuyanagai0213/test-release-please/compare/v1.0.0...v1.0.1) (2022-10-18)
 
 
